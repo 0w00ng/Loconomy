@@ -1,0 +1,20 @@
+.page {
+  background-color: black;
+  align-items: center;
+  margin: auto;
+}
+.topbar {
+  display: flex;
+  background-color: black;
+  position: relative;
+  align-items: center;
+  height: 100px;
+  width: 100%;
+}
+.topbar-text {
+  color: white;
+  position: relative;
+  padding: 30px;
+  font-weight: bold;
+  font-size: 30px;
+}
